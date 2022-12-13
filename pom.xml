@@ -20,10 +20,8 @@
 		<sonar.language>java</sonar.language>
 		<sonar.host.url>http://localhost:9000</sonar.host.url>
 		<sonar.login> sqp_37bf12378a6e4bb30416b4fab855df1b8d0a0077</sonar.login>
-
-	</properties>
-
-	<dependencies>
+    </properties>
+   <dependencies>
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
